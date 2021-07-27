@@ -139,6 +139,11 @@ https://github.com/ChumbokIT[Github]
 |Java, PHP, Python, C#
 |http://enosisbd.com[Website]
 
+|Echologyx
+|Siam Tower, Plot 15, Floor 13, Dhaka
+|Javascript, React, React Native, Vue, Android, Java
+|http://www.echologyx.com/[Website]
+
 |Escenic (Norway)
 |Kaderia Tower, JA 28/8B Bir Uttam AK Khandakar Rd, Dhaka 1212
 |Java
